@@ -1,0 +1,280 @@
+ /* section 1 */
+ *{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+ }
+ @media(min-width:1023px){
+
+ 
+ .uma {
+    margin-left: 250px;
+}
+/* -------------------------------section 2 ----------------------------------*/
+ .bnr {
+    background: url("gif.webp");
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.bnr h1 {
+    /* margin-top: 250px; */
+    padding-top: 200px;
+    color: white;
+}
+
+.bnr i {
+    font-size: 40px;
+}
+
+.bnr button {
+    margin-top: 30px;
+    
+    height: 80px;
+    width: 150px;
+    font-size: 15px;
+    
+    color: rgb(19, 19, 19);
+    border-radius: 10px;
+    background-color: transparent;
+    border: 2px solid rgb(245, 9, 9);
+
+}
+.bnr button:hover{
+
+height: 80px;
+    width: 150px;
+    font-size: 20px;
+    
+    color: rgb(250, 252, 252);
+    /* border-radius: 10px; */
+    background-color: rgb(9, 9, 9);
+    border: 2px solid rgb(211, 252, 5);
+
+}
+
+
+/*----------------------------------------------- seactin 4----------------------------------- */
+
+.reach{
+    height: 640px;
+    width: 100%;
+    /* border: 2px solid rgb(203, 22, 22); */
+    background-color: gray;
+}
+.reach h1{
+    font-size: 45px;
+    color: rgb(12, 12, 12);
+    text-align: center;
+    margin-top: 15px;
+}
+.out{
+height: 500px; 
+width: 330px;
+/* border: 2px solid red;  */
+margin-top: 30px;  
+margin-left: 70px;
+float: left;
+text-align: center;
+background-color: blanchedalmond;
+border-radius: 5px;
+}
+.out img{
+    height: 250px;
+    width: 325px;
+    
+}
+.out i{
+    font-size: 30px;
+    color: rgb(242, 6, 6);
+}
+.out h1{
+    font-size: 15px;
+    
+    color: rgb(31, 7, 249);
+    
+}
+.out button{
+    background-color: rgb(15, 15, 14);
+    color: rgb(250, 243, 243);
+    padding: 5px 15px;
+    border-radius: 10px;
+    margin-top:10px;
+} 
+.out button:hover{
+    transform: scale(1.2);
+}
+
+}
+.fun
+{
+    height: 800px;
+    width: 100%;
+    /* border: 2px solid rgb(203, 22, 22); */
+    background-color: rgb(225, 241, 235);
+}
+.fun h1{
+font-size: 40px;
+    color: rgb(12, 12, 12);
+    text-align: center;
+    margin-top: 20px;
+}
+.activity{
+    height: 300px;
+    width: 320px;
+    /* border: 2px solid rgb(203, 22, 22); */
+    margin-left: 70px;
+    margin-top: 35px;
+    float: left;
+    border: radius 10px;
+}
+.activity img{
+    height: 295px;
+    width: 315px;
+    /* border-radius: 15px; */
+}
+.activity img{
+    filter: brightness(150%);
+}
+.activity img:hover{
+filter: brightness(90%);
+transition: -4s;
+}
+.time{
+    height: 300px;
+    width: 320px;
+    /* border: 2px solid rgb(203, 22, 22); */
+    margin-left: 70px;
+    margin-top: 40px;
+    float: left;
+}
+.time img{
+    height: 295px;
+    width: 315px;   
+}
+.time img:hover{
+    filter: saturate(200%);
+}
+.time:hover{
+    filter: saturate(150%);
+    transition: -4s;
+}
+.samsung{
+    height: 600px;
+    width: 100%;
+    /* border: 2px solid rgb(203, 22, 22); */
+    /* margin-top: 10px; */
+    background-color:black;
+}
+.sam{
+    
+height: 430px;
+width: 550px;
+/* border: 2px solid green; */
+float: left;
+margin-top: 40px;
+margin-left: 50px;
+}
+.ranga{
+    height: 180px;
+    width: 500px;
+    /* border: 2px solid gray; */
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.ranga h1{
+    font-size: 55px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin-top: 15px;
+    
+    }
+    .ranga h2{
+        font-size: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color:white;
+        margin-top: 20px;
+    }
+    .sathi{
+    
+        height: 180px;
+        width: 250px;
+        /* border: 1px solid rgb(240, 109, 1); */
+        margin-top:5px;
+        margin-left: 15px;
+        float: left;
+        
+        }
+        .sathi h2{
+            font-size: 20px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            color: white;
+            margin-top: 10px;
+        }
+        .sathi p{
+            font-size: 15px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            color:white;
+        }
+        .loki{
+            height: 180px;
+            width: 500px;
+            /* border: 2px solid gray; */
+            margin-top: 20px;
+            margin-left: 20px;
+        
+        }
+        .loki label{
+            font-size: 20px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            color: white;
+            margin-top: 50px;
+            margin-left: 10px;
+        }
+        .loki input{
+            background-color: rgb(248, 246, 246);
+            color: rgb(16, 14, 14);
+            width: 350px;
+        }
+        .nani{
+            height: 280px;
+            width: 250px;
+            /* border: 1px solid gray; */
+            margin-top: 10px;
+            margin-left: 15px;
+            float: left;
+        
+        }
+        .nani h1{
+            font-size: 30px;
+            margin-top: 10px;
+            color: white;
+            margin-left: 30px;
+        }
+        .nani p{
+            font-size: 15px;
+            color: rgb(247, 240, 240);
+            margin-left: 30px;
+            margin-top: 10px;
+        }
+        .nani i{
+            font-size: 30px;
+            margin-top: 70px;
+            margin-left: 15px;
+            color: rgb(250, 8, 8);
+        }
+        .copy {
+
+            margin-top: 1px;
+            font-size: 20px;
+            text-align: center;
+            background-color: rgb(15, 9, 9);
+            padding: 20px;
+            color: white;
+        
+        }
+        

@@ -1,0 +1,189 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+ }
+ @media(min-width:1023px){
+
+.uma {
+    margin-left: 250px;
+}
+
+/* ---------------------------------section 2 ----------------------------*/
+
+.jaya{
+    height: 700px;
+    width: 100%;
+    /* border: 2px solid rgb(203, 22, 22); */
+    background-color: rgb(245, 217, 164);
+}
+.raj{
+    height: 450px;
+    width: 500px;
+    /* border: 2px solid rgb(203, 22, 22); */
+    margin-top: 130px;
+    margin-left: 70px;
+    float: left;
+}
+.raj img{
+    height: 445px;
+    width: 495px;
+    border-radius: 15px;
+}
+.raj img{
+    filter: hue-rotate(180deg);
+}
+.raj img:hover{
+    filter: hue-rotate(90deg);
+    transition: -8s;
+}
+.raj label{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(10, 10, 10);
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.raj input{
+    background-color: rgb(248, 246, 246);
+    color: rgb(16, 14, 14);
+    width: 350px;
+}
+
+.raj button{
+        background-color: rgb(247, 165, 13);
+        color: rgb(13, 10, 10);
+        padding: 10px 48px;
+        border-radius: 10px;
+        margin-top:90px;
+    }
+    .raj button:hover{
+        transform: scale(1.1);
+        transition: 2s;
+        background-color: transparent;
+        color:black;
+    }
+
+.samsung{
+    height: 600px;
+    width: 100%;
+    /* border: 2px solid rgb(203, 22, 22); */
+    /* margin-top: 10px; */
+    background-color:black;
+}
+.sam{
+    
+height: 430px;
+width: 550px;
+/* border: 2px solid green; */
+float: left;
+margin-top: 40px;
+margin-left: 50px;
+}
+.ranga{
+    height: 180px;
+    width: 500px;
+    /* border: 2px solid gray; */
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.ranga h1{
+    font-size: 55px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin-top: 15px;
+}
+.ranga h2{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+    margin-top: 20px;
+}
+.sathi{
+
+    height: 180px;
+    width: 250px;
+    /* border: 1px solid rgb(240, 109, 1); */
+    margin-top:5px;
+    margin-left: 15px;
+    float: left;
+}
+.sathi h2{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin-top: 10px;
+}
+.sathi p{
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+}
+.loki{
+    height: 180px;
+    width: 500px;
+    /* border: 2px solid gray; */
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+.loki label{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.loki input{
+    background-color: rgb(248, 246, 246);
+    color: rgb(16, 14, 14);
+    width: 350px;
+}
+.nani{
+    height: 280px;
+    width: 250px;
+    /* border: 1px solid gray; */
+    margin-top: 10px;
+    margin-left: 15px;
+    float: left;
+
+}
+.nani h1{
+    font-size: 30px;
+    margin-top: 10px;
+    color: white;
+    margin-left: 30px;
+}
+.nani p{
+    font-size: 15px;
+    color: rgb(247, 240, 240);
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.nani i{
+    font-size: 30px;
+    margin-top: 70px;
+    margin-left: 15px;
+    color: rgb(250, 8, 8);
+}
+.copy {
+
+    margin-top: 1px;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(15, 9, 9);
+    padding: 20px;
+    color: white;
+
+}
+
+
+
+}
+
+
+
+
+
+

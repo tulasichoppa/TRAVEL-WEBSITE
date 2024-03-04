@@ -1,0 +1,244 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+ }
+ @media(min-width:1023px){
+
+.uma {
+    margin-left: 250px;
+}
+.dharani{
+    height: 650px;
+    width: 100%;
+    /* border: 2px solid rgb(203, 22, 22); */
+    background-color: rgb(224, 221, 221);
+}
+.dharani h1{
+    color: rgb(74, 4, 45);
+    text-align: center;
+    font-size: 45px;
+    margin-top: 15px;
+}
+.priya{
+    height: 230px;
+    width: 330px;
+    border: 2px solid rgb(7, 6, 6);
+    border-radius: 8px;
+    margin-left: 70px;
+    margin-top: 30px;
+    float: left;
+}
+.mani{
+    height: 230px;
+    width: 330px;
+    border: 2px solid rgb(11, 10, 10);
+    margin-left: 70px;
+    margin-top: 30px;
+    float: left;
+}
+.priya i{
+    font-size: 70px;
+    color: rgb(10, 10, 10);
+    margin-left: 130px;
+    margin-top: 10PX;
+}
+.priya h1{
+    font-size: 15px;
+    color: rgb(15, 16, 17);
+    text-align: center;
+    margin-top: 20PX;
+}
+.priya h2{
+    font-size: 23px;
+    color: rgb(3, 125, 19);
+    text-align: center;
+    margin-top: 20PX;
+}
+.mani i{
+    font-size: 70px;
+    color: rgb(10, 10, 10);
+    margin-left: 130px;
+    margin-top: 10PX;
+}
+.mani h1{
+    font-size: 15px;
+    color: rgb(40, 66, 2);
+    text-align: center;
+    margin-top: 20PX;
+}
+.mani h2{
+    font-size: 23px;
+    color: rgb(3, 31, 125);
+    text-align: center;
+    margin-top: 20PX;
+}
+
+/* --------------------------section 4 -----------------------*/
+.gayatri{
+    height: 530px;
+    width: 100%;
+    /* border: 2px solid rgb(232, 5, 5); */
+}
+.gayatri h1{
+    color: rgb(51, 6, 103);
+    text-align: center;
+    font-size: 45px;
+    margin-top: 20px;
+}
+.kumari{
+    height: 380px;
+    width: 300px;
+    border: 2px solid rgb(7, 7, 7);
+    border-radius: 8px;
+    margin-left: 90px;
+    margin-top: 40px;
+    float: left;
+
+}
+.kumari img{
+    height: 130px;
+    width: 130px;
+    border-radius: 50px;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+.kumari h1{
+    font-size: 25px;
+    text-align: center;
+    color: rgb(8, 8, 8);
+    margin-top: 10px;
+}
+.kumari p{
+    font-size: 15px;
+    text-align: center;
+    color: rgb(8, 8, 8);
+    margin-top: 15px;
+}
+
+/* ----------------------------section 5 -------------------------------*/
+
+.samsung{
+    height: 600px;
+    width: 100%;
+    /* border: 2px solid rgb(203, 22, 22); */
+    /* margin-top: 10px; */
+    background-color:black;
+}
+.sam{
+    
+height: 430px;
+width: 550px;
+/* border: 2px solid green; */
+float: left;
+margin-top: 40px;
+margin-left: 50px;
+}
+.ranga{
+    height: 180px;
+    width: 500px;
+    /* border: 2px solid gray; */
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.ranga h1{
+    font-size: 55px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin-top: 15px;
+}
+.ranga h2{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+    margin-top: 20px;
+}
+.sathi{
+
+    height: 180px;
+    width: 250px;
+    /* border: 1px solid rgb(240, 109, 1); */
+    margin-top:5px;
+    margin-left: 15px;
+    float: left;
+}
+.sathi h2{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin-top: 10px;
+}
+.sathi p{
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+}
+.loki{
+    height: 180px;
+    width: 500px;
+    /* border: 2px solid gray; */
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+.loki label{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.loki input{
+    background-color: rgb(248, 246, 246);
+    color: rgb(16, 14, 14);
+    width: 350px;
+}
+.nani{
+    height: 280px;
+    width: 250px;
+    /* border: 1px solid gray; */
+    margin-top: 10px;
+    margin-left: 15px;
+    float: left;
+
+}
+.nani h1{
+    font-size: 30px;
+    margin-top: 10px;
+    color: white;
+    margin-left: 30px;
+}
+.nani p{
+    font-size: 15px;
+    color: rgb(247, 240, 240);
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.nani i{
+    font-size: 30px;
+    margin-top: 70px;
+    margin-left: 15px;
+    color: rgb(250, 8, 8);
+}
+.copy {
+
+    margin-top: 1px;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(15, 9, 9);
+    padding: 20px;
+    color: white;
+
+}
+
+}
+
+
+
+
+
+
+
+
+
